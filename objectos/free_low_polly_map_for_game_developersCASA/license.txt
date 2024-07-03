@@ -1,0 +1,11 @@
+Model Information:
+* title:	Free Low Polly Map for game developers
+* source:	https://sketchfab.com/3d-models/free-low-polly-map-for-game-developers-4299e9fda88941d1b474a9547ba5fd9c
+* author:	x_blade (https://sketchfab.com/X_BLADE.)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Free Low Polly Map for game developers" (https://sketchfab.com/3d-models/free-low-polly-map-for-game-developers-4299e9fda88941d1b474a9547ba5fd9c) by x_blade (https://sketchfab.com/X_BLADE.) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

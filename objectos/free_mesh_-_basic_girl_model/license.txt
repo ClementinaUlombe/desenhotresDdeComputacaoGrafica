@@ -1,0 +1,11 @@
+Model Information:
+* title:	Free Mesh - Basic Girl Model
+* source:	https://sketchfab.com/3d-models/free-mesh-basic-girl-model-dd69d8131ff64dee964c3a22ca9df339
+* author:	jérémy paladini (https://sketchfab.com/paladini)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Free Mesh - Basic Girl Model" (https://sketchfab.com/3d-models/free-mesh-basic-girl-model-dd69d8131ff64dee964c3a22ca9df339) by jérémy paladini (https://sketchfab.com/paladini) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

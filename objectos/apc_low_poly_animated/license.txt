@@ -1,0 +1,11 @@
+Model Information:
+* title:	APC (Low poly, Animated)
+* source:	https://sketchfab.com/3d-models/apc-low-poly-animated-944850f46f154ef0a9eed2c4ab90d2ce
+* author:	Slayver (https://sketchfab.com/Slayver)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "APC (Low poly, Animated)" (https://sketchfab.com/3d-models/apc-low-poly-animated-944850f46f154ef0a9eed2c4ab90d2ce) by Slayver (https://sketchfab.com/Slayver) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
